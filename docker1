@@ -1,0 +1,3 @@
+FROM linux
+MAINTAINER mempage
+RUN apt-get update -y
